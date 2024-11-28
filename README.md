@@ -6,7 +6,7 @@ This project implements a binary tree to solve mathematical equations read from 
 
 ### Prerequisites
 - Windows Environment
-- [MingGW](https://sourceforge.net/projects/mingw/)
+- [MinGW](https://sourceforge.net/projects/mingw/)
 
 1. From the root directory of the project, run:
 ```bash
