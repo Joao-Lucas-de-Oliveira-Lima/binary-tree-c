@@ -1,4 +1,4 @@
-# Equation Solver With a Binary Tree
+# Equation Solver Using Binary Tree
 
 This project implements a binary tree to solve mathematical equations read from a text file. The binary tree structure is used to represent and evaluate the equation.
 
