@@ -57,8 +57,8 @@ max
         8
         4
     min
-        9
         8
+        9
 ```
 > Note: Do not place a newline at the end. Each line in the file should represent a node in the tree; otherwise, it will generate inconsistent results.
 
