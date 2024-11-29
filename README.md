@@ -47,8 +47,6 @@ main.exe
 
 ## Example of `equation.txt`
 
-<img src="/images/example.png" width="400">
-
 The equation: `max((8 + 4), min(9, 8))`, with output 12, should be written in `equation.txt` as follows:
 
 ```plaintext
